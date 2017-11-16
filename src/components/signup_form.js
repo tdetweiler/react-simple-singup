@@ -161,7 +161,7 @@ class SignUpForm extends Component {
                             errorMessage="Passwords do not match"
                             emptyMessage="Need to confirm password"
                         />
-                        <button type="submit" className="btn btn-secondary">Next</button>
+                        <button type="submit" className="btn btn-secondary">Submit</button>
                     </form>
                 </div>
             );
