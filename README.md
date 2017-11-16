@@ -6,3 +6,5 @@ Simple React signup form that has the fields:
 * Confirm password
 
 Javascript validation checks run on these fields before the form can be submitted. In order to set up this project you need to download the code and run 'npm install' followed by 'npm start'
+
+Running example up on: https://tdetweiler.github.io/react-simple-singup/
