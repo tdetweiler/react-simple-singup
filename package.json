@@ -1,7 +1,7 @@
 {
-  "name": "allbirds-detweiler-signup-application",
+  "name": "detweiler-signup-application",
   "version": "1.0.0",
-  "description": "Sign up page for allbirds project",
+  "description": "Sign up page for react project",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
